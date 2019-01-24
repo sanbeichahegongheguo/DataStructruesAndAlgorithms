@@ -13,3 +13,4 @@ if __name__ == '__main__':
     print(li)
     nlist = quiec_sort(li)
     print(nlist)
+
