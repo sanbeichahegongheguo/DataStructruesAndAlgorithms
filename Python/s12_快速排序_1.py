@@ -24,4 +24,3 @@ if __name__ == '__main__':
     print(li)
     quick_sort(li, 0, len(li)-1)
     print(li)
-
