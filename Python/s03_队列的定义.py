@@ -37,4 +37,3 @@ if __name__ == "__main__":
 	print(q.dequeue())
 	print(q.dequeue())
 	print("is_empty:%s" % q.is_empty())
-		
